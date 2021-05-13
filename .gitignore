@@ -1,1 +1,6 @@
+*.replit
+*.class
+**/*
+!**/examen.java
+!**/ejercicios del examen.xlsx
 
